@@ -1,4 +1,4 @@
-# ITC-Award-2018-Robocode
+# ITC Award 2018: Robocode
 ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&TT, trường Đại học Cần Thơ tổ chức
 
 ## Thể lệ
