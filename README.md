@@ -2,7 +2,16 @@
 ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&TT, trường Đại học Cần Thơ tổ chức
 
 ## Thể lệ
-đang cập nhật
+### Vòng loại
+* Tiêu chí đánh giá: đấu loại trực tiếp bằng 10 lượt, chọn ra cá nhân/tổ đội xuất sắc nhất.
+* Thí sinh dự thi thành lập nhóm 3 người hoặc thi cá nhân.
+* Ban tổ chức sẽ sắp xếp lượt dự thi ngẫu nhiên theo từng cá nhân/tổ đội.
+* Cá nhân: cá nhân có robo đạt điểm cao nhất (dựa trên bảng xếp hạng trận)
+* Tổ đội: tổng phần trăm của 3 cá nhân thuộc tổ đội cao nhất (dựa trên bảng xếp hạng trận)
+### Vòng chung kết
+* Các bạn dự thi theo hình thức đã đăng ký và đã thi đấu vòng loại.
+* Thi đấu trực tiếp tất cả lần lượt theo từng hình thức cá nhân và tổ đội
+* Kết quả chung cuộc dựa trên bảng xếp hạng trận đấu.
 
 ## Thời gian - Địa điểm
 đang cập nhật
