@@ -57,6 +57,10 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 
 ## Tham khảo
 * Wiki: https://vi.wikipedia.org/wiki/Robocode
+* Giới thiệu về Robocode: https://robocode.sourceforge.io/docs/ReadMe.html
+* Yêu cầu hệ thống: http://robowiki.net/wiki/Robocode/System_Requirements (tiếng Anh)
+* Cài đặt JAVA: https://www.java.com/en/download/win10.jsp
+* Cài đặt JRE (Java Runtime Environment): https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 * Cài đặt và tạo robot: https://anphanhv.wordpress.com/2014/11/23/cai-dat-robocode-create-robot/
 * Cấu trúc robot: https://anphanhv.wordpress.com/2014/11/23/cau-truc-cua-mot-chuong-trinh-robocode/?
 * Hướng dẫn đóng góp lên project GitHub:https://codetot.net/contribute-github/
