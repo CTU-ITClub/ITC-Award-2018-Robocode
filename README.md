@@ -7,7 +7,13 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Link sự kiện Facebook: đang cập nhật
 
 ## B. Thể lệ
-### I. Vòng loại
+### I. Đối tượng tham gia và lưu ý
+* Là học sinh - sinh viên - cựu sinh viên trên toàn lãnh thổ Việt Nam.
+* Có khả năng có mặt tại trường Đại học Cần Thơ để tham gia vòng chung kết (nếu lọt top 16 cá nhân/đội mạnh nhất từ 8 bảng).
+* Chi phí đi lại, ăn ở (nếu phát sinh) sẽ do thí sinh dự thi tự chi trả. Ban tổ chức không chịu trách nhiệm về các khoản chi phí này.
+* Giấy khen do Đoàn khoa CNTT&TT (trường Đại học Cần Thơ) chỉ cấp cho cá nhân/đội thắng cuộc và toàn bộ cá nhân/đội nhận được giải thắng cuộc phải là sinh viên đang theo học tại khoa CNTT&TT. Nếu nằm ngoài đối tượng này, giải thắng cuộc chỉ bao gồm giấy chứng nhận từ CLB Tin học và tiền mặt kèm theo mà không có giấy khen.
+
+### II. Vòng loại
 * Tiêu chí đánh giá: đấu loại trực tiếp bằng 10 lượt, chọn ra cá nhân/tổ đội xuất sắc nhất.
 * Thí sinh dự thi thành lập nhóm 3 người hoặc thi cá nhân.
 * Ban tổ chức sẽ sắp xếp lượt dự thi ngẫu nhiên theo từng cá nhân/tổ đội.
@@ -15,7 +21,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Tổ đội: tổng phần trăm của 3 cá nhân thuộc tổ đội cao nhất (dựa trên bảng xếp hạng trận)
 * Hình thức: thí sinh gửi code về ban tổ chức bằng hình thức đóng góp vào GitHub do ban tổ chức cung cấp. Code phải được gửi về trước khi thi 6 giờ (dựa trên thời gian commit). Vào 19h mỗi tối chủ nhật, ban tổ chức sẽ livestream từng bảng thông qua nhóm Facebook của CLB Tin học.
 
-### II. Vòng chung kết
+### III. Vòng chung kết
 * Các bạn dự thi theo hình thức đã đăng ký và đã thi đấu vòng loại.
 * Thi đấu trực tiếp tất cả lần lượt theo từng hình thức cá nhân và tổ đội
 * Kết quả chung cuộc dựa trên bảng xếp hạng trận đấu.
