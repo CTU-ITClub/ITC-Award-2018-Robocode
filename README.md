@@ -29,3 +29,9 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 
 ## Robocode Home
 * https://robocode.sourceforge.io/
+
+## Tham khảo
+* Wiki: https://vi.wikipedia.org/wiki/Robocode
+* Cài đặt và tạo robot: https://anphanhv.wordpress.com/2014/11/23/cai-dat-robocode-create-robot/
+* Cấu trúc robot: https://anphanhv.wordpress.com/2014/11/23/cau-truc-cua-mot-chuong-trinh-robocode/?
+* Hướng dẫn đóng góp lên project GitHub:https://codetot.net/contribute-github/
