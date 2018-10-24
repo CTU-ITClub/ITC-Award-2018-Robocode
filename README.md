@@ -4,7 +4,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 ## A. Đăng ký và theo dõi
 * Link đăng ký: http://bit.ly/ITCrobocode
 * Group CLB Tin học: https://www.facebook.com/groups/clbtinhoc.ctu/
-* Link sự kiện Facebook: đang cập nhật
+* Link sự kiện Facebook: http://bit.ly/2O4cGTz
 
 ## B. Thể lệ
 ### I. Đối tượng tham gia và lưu ý
