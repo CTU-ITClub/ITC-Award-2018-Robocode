@@ -22,13 +22,20 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Hình thức: từng cá nhân và tổ đội hạng nhất mỗi bảng sẽ tập trung về hội trường khoa CNTT&TT để tham gia vòng chung kết. Ban tổ chức livestream trực tiếp vòng chung kết thông qua nhóm Facebook của CLB Tin học.
 
 ## Thời gian - Địa điểm
+### Lễ Phát động - Hướng dẫn về thể lệ và đăng ký
+#### Thời gian: 8h ngày 27/10/2018
+#### Địa điểm: hội trường khoa CNTT&TT, trường Đại học Cần Thơ
+#### Diễn giả:
+* Phạm Nguyễn Hải Âu (Nguyên Chủ nhiệm CLB Tin học)
+* Lê Nguyên Thức (Nguyên Phó Chủ nhiệm thường trực CLB Tin học)
+
 ### Vòng loại
-* Thời gian: liên tục trong 8 tuần (4/11 - 23/12/2018) để chia bảng 8 bảng A,B,C,D,E,F,G,H
-* Địa điểm: thi trực tuyến (xem livestream tại group CLB Tin học)
+#### Thời gian: liên tục trong 8 tuần (4/11 - 23/12/2018) để chia bảng 8 bảng A,B,C,D,E,F,G,H
+#### Địa điểm: thi trực tuyến (xem livestream tại group CLB Tin học)
 
 ### Vòng chung kết
-* Thời gian: 18h30 ngày 30/12/2018
-* Địa điểm: hội trường khoa CNTT&TT, trường Đại học Cần Thơ
+#### Thời gian: 18h30 ngày 30/12/2018
+#### Địa điểm: hội trường khoa CNTT&TT, trường Đại học Cần Thơ
 
 ## Giải thưởng
 ### Cá nhân
