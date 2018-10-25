@@ -5,6 +5,10 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Link đăng ký: http://bit.ly/ITCrobocode
 * Group CLB Tin học: https://www.facebook.com/groups/clbtinhoc.ctu/
 * Link sự kiện Facebook: http://bit.ly/2O4cGTz
+* Thể lệ và chính sách: http://bit.ly/2PTyTWd
+* Danh sách đăng ký và chia bảng: http://bit.ly/2JfgMHQ
+* Bảng xếp hạng: http://bit.ly/2D0KX5j
+* Các robo: http://bit.ly/2Jg2Q07
 
 ## B. Thể lệ
 ### I. Đối tượng tham gia và lưu ý
@@ -72,7 +76,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Giới thiệu về Robocode: https://robocode.sourceforge.io/docs/ReadMe.html
 * Yêu cầu hệ thống: http://robowiki.net/wiki/Robocode/System_Requirements (tiếng Anh)
 * Cài đặt JAVA: https://www.java.com/en/download/win10.jsp
-* Cài đặt JRE (Java Runtime Environment): https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+* Cài đặt JRE (Java Runtime Environment): http://bit.ly/2OMJRjK (từ Oracle)
 * Cài đặt và tạo robot: https://anphanhv.wordpress.com/2014/11/23/cai-dat-robocode-create-robot/
-* Cấu trúc robot: https://anphanhv.wordpress.com/2014/11/23/cau-truc-cua-mot-chuong-trinh-robocode/?
+* Cấu trúc robot: https://anphanhv.wordpress.com/2014/11/23/cau-truc-cua-mot-chuong-trinh-robocode/
 * Hướng dẫn đóng góp lên project GitHub:https://codetot.net/contribute-github/
