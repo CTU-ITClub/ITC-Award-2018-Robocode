@@ -35,9 +35,9 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 ### I. Lễ Phát động - Hướng dẫn về thể lệ và đăng ký
 #### 1. Thời gian: 8h ngày 27/10/2018
 #### 2. Địa điểm: hội trường khoa CNTT&TT, trường Đại học Cần Thơ
-#### 3. Diễn giả:
-* Phạm Nguyễn Hải Âu (Nguyên Chủ nhiệm CLB Tin học)
-* Lê Nguyên Thức (Nguyên Phó Chủ nhiệm thường trực CLB Tin học)
+#### 3. Khách mời:
+* Phạm Nguyễn Hải Âu (Cựu Chủ nhiệm CLB Tin học)
+* Lê Nguyên Thức (Cựu Phó Chủ nhiệm thường trực CLB Tin học)
 
 ### II. Vòng loại
 #### 1. Thời gian: liên tục trong 8 tuần (4/11 - 23/12/2018) để chia bảng 8 bảng A,B,C,D,E,F,G,H
@@ -71,13 +71,21 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 ## F. Robocode Home
 * https://robocode.sourceforge.io/
 
-## G. Tham khảo
+## G. Tài liệu Robocode
 * Wiki: https://vi.wikipedia.org/wiki/Robocode
 * Tài liệu hướng dẫn: https://robocode.sourceforge.io/docs/robocode/ (tiếng Anh)
 * Giới thiệu về Robocode: https://robocode.sourceforge.io/docs/ReadMe.html
 * Yêu cầu hệ thống: http://robowiki.net/wiki/Robocode/System_Requirements (tiếng Anh)
+
+## H. Cài đặt phần mềm hỗ trợ
 * Cài đặt JAVA: https://www.java.com/en/download/win10.jsp
 * Cài đặt JRE (Java Runtime Environment): http://bit.ly/2OMJRjK (từ Oracle)
+* Cài đặt GitHub Desktop: https://desktop.github.com/
+* Cài đặt Git Bash: https://git-scm.com/downloads
+
+## I. Tham khảo
+* Một trận đấu robocode: https://www.youtube.com/watch?v=0qtoh_PjhcU
 * Cài đặt và tạo robot: https://anphanhv.wordpress.com/2014/11/23/cai-dat-robocode-create-robot/
 * Cấu trúc robot: https://anphanhv.wordpress.com/2014/11/23/cau-truc-cua-mot-chuong-trinh-robocode/
+* Giới thiệu về GitHub: https://thachpham.com/tools/git-git-va-github-la-gi-tai-sao-nen-dung.html
 * Hướng dẫn đóng góp lên project GitHub:https://codetot.net/contribute-github/
