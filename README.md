@@ -73,6 +73,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 
 ## G. Tham khảo
 * Wiki: https://vi.wikipedia.org/wiki/Robocode
+* Tài liệu hướng dẫn: https://robocode.sourceforge.io/docs/robocode/ (tiếng Anh)
 * Giới thiệu về Robocode: https://robocode.sourceforge.io/docs/ReadMe.html
 * Yêu cầu hệ thống: http://robowiki.net/wiki/Robocode/System_Requirements (tiếng Anh)
 * Cài đặt JAVA: https://www.java.com/en/download/win10.jsp
