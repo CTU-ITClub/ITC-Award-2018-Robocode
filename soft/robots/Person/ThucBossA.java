@@ -1,56 +1,78 @@
 package Person;
-import robocode.*;
-//import java.awt.Color;
 
-// API help : http://robocode.sourceforge.net/docs/robocode/robocode/Robot.html
 
-/**
- * ThucBossA - a robot by (your name here)
- */
-public class ThucBossA extends Robot
-{
+import robocode.HitRobotEvent;
+import robocode.Robot;
+import robocode.ScannedRobotEvent;
+
+import java.awt.*;
+
+public class ThucBossA extends Robot {
+
+	boolean peek; // Don't turn if there's a robot there
+	double moveAmount; // How much to move
+
 	/**
-	 * run: ThucBossA's default behavior
+	 * run: Move around the walls
 	 */
 	public void run() {
-		// Initialization of the robot should be put here
+		// Set colors
+		setBodyColor(Color.black);
+		setGunColor(Color.black);
+		setRadarColor(Color.orange);
+		setBulletColor(Color.cyan);
+		setScanColor(Color.cyan);
 
-		// After trying out your robot, try uncommenting the import at the top,
-		// and the next line:
+		// Initialize moveAmount to the maximum possible for this battlefield.
+		moveAmount = Math.max(getBattleFieldWidth(), getBattleFieldHeight());
+		// Initialize peek to false
+		peek = false;
 
-		// setColors(Color.red,Color.blue,Color.green); // body,gun,radar
+		// turnLeft to face a wall.
+		// getHeading() % 90 means the remainder of
+		// getHeading() divided by 90.
+		turnLeft(getHeading() % 90);
+		ahead(moveAmount);
+		// Turn the gun to turn right 90 degrees.
+		peek = true;
+		turnGunRight(90);
+		turnRight(90);
 
-		// Robot main loop
-		while(true) {
-			// Replace the next 4 lines with any behavior you would like
-			ahead(100);
-			turnGunRight(360);
-			back(100);
-			turnGunRight(360);
+		while (true) {
+			// Look before we turn when ahead() completes.
+			peek = true;
+			// Move up the wall
+			ahead(moveAmount);
+			// Don't look now
+			peek = false;
+			// Turn to the next wall
+			turnRight(90);
 		}
 	}
 
 	/**
-	 * onScannedRobot: What to do when you see another robot
+	 * onHitRobot:  Move away a bit.
 	 */
-	public void onScannedRobot(ScannedRobotEvent e) {
-		// Replace the next line with any behavior you would like
-		fire(1);
+	public void onHitRobot(HitRobotEvent e) {
+		// If he's in front of us, set back up a bit.
+		if (e.getBearing() > -90 && e.getBearing() < 90) {
+			back(100);
+		} // else he's in back of us, so set ahead a bit.
+		else {
+			ahead(100);
+		}
 	}
 
 	/**
-	 * onHitByBullet: What to do when you're hit by a bullet
+	 * onScannedRobot:  Fire!
 	 */
-	public void onHitByBullet(HitByBulletEvent e) {
-		// Replace the next line with any behavior you would like
-		back(10);
+	public void onScannedRobot(ScannedRobotEvent e) {
+		fire(5);
+		// Note that scan is called automatically when the robot is moving.
+		// By calling it manually here, we make sure we generate another scan event if there's a robot on the next
+		// wall, so that we do not start moving up it until it's gone.
+		if (peek) {
+			scan();
+		}
 	}
-	
-	/**
-	 * onHitWall: What to do when you hit a wall
-	 */
-	public void onHitWall(HitWallEvent e) {
-		// Replace the next line with any behavior you would like
-		back(20);
-	}	
 }
