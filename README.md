@@ -78,14 +78,21 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Yêu cầu hệ thống: http://robowiki.net/wiki/Robocode/System_Requirements (tiếng Anh)
 
 ## H. Cài đặt phần mềm hỗ trợ
-* Cài đặt JAVA: https://www.java.com/en/download/win10.jsp
+### Cài đặt bộ kit phát triển Java cho phần mềm Robocode
+* Hướng dẫn cài đặt JDK: http://bit.ly/2P3i6DO
+* Cài đặt JDK (Java Development Kit): http://bit.ly/2yNEExY (từ Oracle)
 * Cài đặt JRE (Java Runtime Environment): http://bit.ly/2OMJRjK (từ Oracle)
-* Cài đặt GitHub Desktop: https://desktop.github.com/
-* Cài đặt Git Bash: https://git-scm.com/downloads
+* Cài đặt JAVA: http://bit.ly/2qp3aB6
+### Cài đặt phần mềm GitHub cho Desktop để gửi robot về ban tổ chức
+* Hướng dẫn cài đặt và sử dụng GitHub Desktop: http://bit.ly/2OkEjrJ (giao diện đồ họa)
+* Hướng dẫn cài đặt và cấu hình Git Bash: http://bit.ly/2EXnyTS (giao diện dòng lệnh)
+* Hướng dẫn sử dụng Git toàn tập: http://bit.ly/2Puj6Aj (giao diện đồ họa và dòng lệnh)
+* Cài đặt GitHub Desktop: https://desktop.github.com/ (giao diện đồ họa)
+* Cài đặt Git Bash: https://git-scm.com/downloads (giao diện dòng lệnh)
 
 ## I. Tham khảo
-* Một trận đấu robocode: https://www.youtube.com/watch?v=0qtoh_PjhcU
-* Cài đặt và tạo robot: https://anphanhv.wordpress.com/2014/11/23/cai-dat-robocode-create-robot/
-* Cấu trúc robot: https://anphanhv.wordpress.com/2014/11/23/cau-truc-cua-mot-chuong-trinh-robocode/
-* Giới thiệu về GitHub: https://thachpham.com/tools/git-git-va-github-la-gi-tai-sao-nen-dung.html
-* Hướng dẫn đóng góp lên project GitHub:https://codetot.net/contribute-github/
+* Một trận đấu robocode: http://bit.ly/2yT9fKT
+* Cài đặt và tạo robot: http://bit.ly/2PDfxHO
+* Cấu trúc robot: http://bit.ly/2P41jjJ
+* Giới thiệu về GitHub: http://bit.ly/2RzgMFB
+* Hướng dẫn đóng góp lên project GitHub: http://bit.ly/2yFMwSj
