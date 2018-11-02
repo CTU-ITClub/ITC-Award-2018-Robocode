@@ -15,7 +15,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 #### Cá nhân
 * Lê Tấn Lộc - B1605339 - <ten_robot> - <ten_tai_khoan_github>
 * Phạm Chí Trung - B1809424 - <ten_robot> - <ten_tai_khoan_github>
-* Đinh Thị Thùy Nhung - B1706736 - <ten_robot> - <ten_tai_khoan_github>
+* Đinh Thị Thùy Nhung - B1706736 - Thuynhungsocolacold - Thuynhungsocolacold
 * Phạm Lư Bích Tuyên - B1706210 - <ten_robot> - <ten_tai_khoan_github>
 * Châu Nhựt Minh - B1706724 - <ten_robot> - <ten_tai_khoan_github>
 * Bùi Lê Công Toại - B1809197 - <ten_robot> - <ten_tai_khoan_github>
