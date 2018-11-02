@@ -92,6 +92,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Cài đặt Git Bash: https://git-scm.com/downloads (giao diện dòng lệnh)
 
 ## I. Tham khảo
+* Tài liệu JAVA cơ bản: https://vietjack.com/java/
 * Một trận đấu robocode: http://bit.ly/2yT9fKT
 * Cài đặt và tạo robot: http://bit.ly/2PDfxHO
 * Cấu trúc robot: http://bit.ly/2P41jjJ
