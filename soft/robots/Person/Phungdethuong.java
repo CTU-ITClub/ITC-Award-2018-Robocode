@@ -30,6 +30,14 @@ public class Phungdethuong extends Robot
 			turnGunRight(360);
 			back(15);
 			turnGunRight(360);
+			movingForward = true;
+			setTurnRight(90);
+			waitFor(new TurnCompleteCondition(this));
+		    setTurnLeft(180);
+			waitFor(new TurnCompleteCondition(this));
+			setTurnRight(180);
+			waitFor(new TurnCompleteCondition(this));
+		}
 		}
 	}
 
