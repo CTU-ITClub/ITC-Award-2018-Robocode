@@ -10,36 +10,86 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Bảng xếp hạng: http://bit.ly/2D0KX5j
 * Các robo: http://bit.ly/2Jg2Q07
 
-## B. Bảng xếp hạng vòng loại
+## B. Bảng xếp hạng vòng loại (Tên thí sinh - Mã số - Tên robot - Tài khoản GitHub)
 ### I. Bảng A - 04/11/2018 (chuẩn bị thi đấu)
-* Lê Tấn Lộc - B1605339 - <ten_robot> - <ten_tai_khoan_github>
 * Đinh Thị Thùy Nhung - B1706736 - Thuynhungsocolacold - Thuynhungsocolacold
-* Phạm Lư Bích Tuyên - B1706210 - <ten_robot> - <ten_tai_khoan_github>
 * Châu Nhựt Minh - B1706724 - phungdethuong - phungdethuong
-* Bùi Lê Công Toại - B1809197 - <ten_robot> - <ten_tai_khoan_github>
-* Huỳnh Thu Uyên - B1812320 - <ten_robot> - <ten_tai_khoan_github>
+* Lê Tấn Lộc - B1605339 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
+* Phạm Lư Bích Tuyên - B1706210 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
+* Bùi Lê Công Toại - B1809197 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
+* Huỳnh Thu Uyên - B1812320 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
+* <khuyết>
+* <khuyết>
 
 ### II. Bảng B - 11/11/2018
 * Huỳnh Tiểu Phụng - B1812367 - <ten_robot> - <ten_tai_khoan_github>
 * Phạm Chí Trung - B1809424 - <ten_robot> - <ten_tai_khoan_github>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
 
 ### III. Bảng C - 18/11/2018
-đang cập nhật
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
 
 ### IV. Bảng D - 25/11/2018
-đang cập nhật
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
 
 ### V. Bảng E - 02/12/2018
-đang cập nhật
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
 
 ### VI. Bảng F - 09/12/2018
-đang cập nhật
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
 
 ### VII. Bảng G - 16/12/2018
-đang cập nhật
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
 
 ### VIII. Bảng H - 23/12/2018
-đang cập nhật
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
+* <khuyết>
 
 ## C. Vòng chung kết - 30/12/2018
 ### Cá nhân
