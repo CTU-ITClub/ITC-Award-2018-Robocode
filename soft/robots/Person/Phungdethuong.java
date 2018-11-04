@@ -31,10 +31,10 @@ public class Phungdethuong extends Robot
 			ahead(200);
 			turnRight(45);
 			ahead(100);
-			turnGunRight(180);
+			turnGunRight(360);
 			turnLeft(45);
 			back(100);
-			turnGunRight(180);
+			turnGunRight(360);
 			
 		}
 	}
