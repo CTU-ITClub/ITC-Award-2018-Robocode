@@ -57,9 +57,10 @@ public class Phungdethuong extends Robot
 	public void onHitByBullet(HitByBulletEvent e) {
 		// Replace the next line with any behavior you would like
 		//back(10);
-		turnRight(45);
+		turnRight(90);
 
-		ahead(40);
+		ahead(50);
+		turnRight(45);
 		back(50);
 		//dist *=-10;
 		scan();
