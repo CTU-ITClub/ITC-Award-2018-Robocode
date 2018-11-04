@@ -28,13 +28,13 @@ public class Phungdethuong extends Robot
 		//setradarColor(Color.prink);
 		while(true) {
 			// Replace the next 4 lines with any behavior you would like
-			ahead(30);
-			turnRight(90);
-			ahead(30);
-			turnGunRight(360);
-			turnLeft(90);
-			back(50);
-			turnGunRight(360);
+			ahead(200);
+			turnRight(45);
+			ahead(100);
+			turnGunRight(180);
+			turnLeft(45);
+			back(100);
+			turnGunRight(180);
 			
 		}
 	}
@@ -50,7 +50,7 @@ public class Phungdethuong extends Robot
 			fire(3);
 		}
 		else {
-			fire(1);
+			fire(2);
 		}
 	}
 
@@ -62,9 +62,9 @@ public class Phungdethuong extends Robot
 		//back(10);
 		turnRight(90);
 
-		ahead(50);
+		ahead(200);
 		turnRight(45);
-		back(50);
+		back(200);
 		//dist *=-10;
 		scan();
 	}
@@ -74,8 +74,8 @@ public class Phungdethuong extends Robot
 	 */
 	public void onHitWall(HitWallEvent e) {
 		// Replace the next line with any behavior you would like
-		back(10);
+		back(50);
 		turnRight(90);
-		ahead(10);
+		ahead(50);
 	}
 }
