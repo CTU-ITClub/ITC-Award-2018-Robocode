@@ -25,6 +25,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Cá nhân: cá nhân có robo đạt điểm cao nhất (dựa trên bảng xếp hạng trận)
 * Tổ đội: tất cả tổ đội đăng ký được vào thẳng vòng chung kết (30/12/2018)
 * Hình thức: thí sinh gửi code về ban tổ chức bằng hình thức đóng góp vào GitHub do ban tổ chức cung cấp. Code phải được gửi về trước khi thi 6 giờ (dựa trên thời gian commit). Vào 19h mỗi tối chủ nhật, ban tổ chức sẽ livestream từng bảng thông qua nhóm Facebook của CLB Tin học.
+* Lưu ý: các cá nhân thua vòng bảng có thể đăng ký thi lại bảng khác. 
 
 ### III. Vòng chung kết
 * Các bạn dự thi theo hình thức đã đăng ký và đã thi đấu vòng loại.
