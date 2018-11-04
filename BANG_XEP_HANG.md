@@ -12,66 +12,41 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 
 ## B. Bảng xếp hạng vòng loại
 ### I. Bảng A - 04/11/2018 (chuẩn bị thi đấu)
-#### Cá nhân
 * Lê Tấn Lộc - B1605339 - <ten_robot> - <ten_tai_khoan_github>
-* Phạm Chí Trung - B1809424 - <ten_robot> - <ten_tai_khoan_github>
 * Đinh Thị Thùy Nhung - B1706736 - Thuynhungsocolacold - Thuynhungsocolacold
 * Phạm Lư Bích Tuyên - B1706210 - <ten_robot> - <ten_tai_khoan_github>
 * Châu Nhựt Minh - B1706724 - <ten_robot> - <ten_tai_khoan_github>
 * Bùi Lê Công Toại - B1809197 - <ten_robot> - <ten_tai_khoan_github>
-* Huỳnh Tiểu Phụng - B1812367 - <ten_robot> - <ten_tai_khoan_github>
 * Huỳnh Thu Uyên - B1812320 - <ten_robot> - <ten_tai_khoan_github>
-#### Tổ đội
-* TOCDO - Dương Thành Đạt - B1805747 - <ten_robot_leader> - <ten_tai_khoan_github>
-* Dogsled - Nguyễn Quốc Trung - B1704784 - <ten_robot_leader> - <ten_tai_khoan_github>
 
 ### II. Bảng B - 11/11/2018
-#### Cá nhân
-đang cập nhật
-#### Tổ đội
-đang cập nhật
+* Huỳnh Tiểu Phụng - B1812367 - <ten_robot> - <ten_tai_khoan_github>
+* Phạm Chí Trung - B1809424 - <ten_robot> - <ten_tai_khoan_github>
 
 ### III. Bảng C - 18/11/2018
-#### Cá nhân
-đang cập nhật
-#### Tổ đội
 đang cập nhật
 
 ### IV. Bảng D - 25/11/2018
-#### Cá nhân
-đang cập nhật
-#### Tổ đội
 đang cập nhật
 
 ### V. Bảng E - 02/12/2018
-#### Cá nhân
-đang cập nhật
-#### Tổ đội
 đang cập nhật
 
 ### VI. Bảng F - 09/12/2018
-#### Cá nhân
-đang cập nhật
-#### Tổ đội
 đang cập nhật
 
 ### VII. Bảng G - 16/12/2018
-#### Cá nhân
-đang cập nhật
-#### Tổ đội
 đang cập nhật
 
 ### VIII. Bảng H - 23/12/2018
-#### Cá nhân
-đang cập nhật
-#### Tổ đội
 đang cập nhật
 
 ## C. Vòng chung kết - 30/12/2018
 ### Cá nhân
 đang cập nhật
 ### Tổ đội
-đang cập nhật
+* TOCDO - Dương Thành Đạt - B1805747 - <ten_robot_leader> - <ten_tai_khoan_github>
+* Dogsled - Nguyễn Quốc Trung - B1704784 - <ten_robot_leader> - <ten_tai_khoan_github>
 
 ## D. Vô địch
 ### Cá nhân
