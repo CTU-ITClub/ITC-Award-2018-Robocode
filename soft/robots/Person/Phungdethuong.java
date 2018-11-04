@@ -28,9 +28,12 @@ public class Phungdethuong extends Robot
 		//setradarColor(Color.prink);
 		while(true) {
 			// Replace the next 4 lines with any behavior you would like
-			ahead(15);
+			ahead(30);
+			turnRight(90);
+			ahead(30);
 			turnGunRight(360);
-			back(15);
+			turnLeft(90);
+			back(50);
 			turnGunRight(360);
 			
 		}
