@@ -4,6 +4,8 @@ import java.awt.Color;
 
 // API help : http://robocode.sourceforge.net/docs/robocode/robocode/Robot.html
 
+// Resend robot because of bugs
+
 /**
  * Phungdethuong - a robot by (your name here)
  */
@@ -55,9 +57,9 @@ public class Phungdethuong extends Robot
 	public void onHitByBullet(HitByBulletEvent e) {
 		// Replace the next line with any behavior you would like
 		//back(10);
-		turnRight(10);
+		turnRight(45);
 
-		ahead(10);
+		ahead(20);
 		back(10);
 		//dist *=-10;
 		scan();
@@ -69,5 +71,7 @@ public class Phungdethuong extends Robot
 	public void onHitWall(HitWallEvent e) {
 		// Replace the next line with any behavior you would like
 		back(10);
+		turnRight(90);
+		ahead(10);
 	}
 }
