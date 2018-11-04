@@ -59,8 +59,8 @@ public class Phungdethuong extends Robot
 		//back(10);
 		turnRight(45);
 
-		ahead(20);
-		back(10);
+		ahead(40);
+		back(50);
 		//dist *=-10;
 		scan();
 	}
