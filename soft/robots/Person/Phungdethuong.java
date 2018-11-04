@@ -30,11 +30,15 @@ public class Phungdethuong extends Robot
 			// Replace the next 4 lines with any behavior you would like
 			ahead(200);
 			turnRight(45);
+			
+			scan();
 			ahead(100);
 			turnGunRight(360);
 			turnLeft(45);
 			back(100);
 			turnGunRight(360);
+			
+			scan();
 			
 		}
 	}
@@ -47,9 +51,11 @@ public class Phungdethuong extends Robot
 		// Replace the next line with any behavior you would like
 		//fire(5);
 		if (e.getBearing() >= 0) {
-			turnRight(90);
+			//turnRight(90);
+			fire(3);
 		} else {
-			turnLeft(90);
+			//turnLeft(90);
+			fire(3);
 		}
 
 		turnRight(e.getBearing());
