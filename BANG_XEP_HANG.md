@@ -3,6 +3,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 
 ## A. Đăng ký và theo dõi
 * Link đăng ký: http://bit.ly/ITCrobocode
+* Hướng dẫn: https://youtu.be/vtVIQX--m58
 * Group CLB Tin học: https://www.facebook.com/groups/clbtinhoc.ctu/
 * Link sự kiện Facebook: http://bit.ly/2O4cGTz
 * Thể lệ và chính sách: http://bit.ly/2PTyTWd
@@ -93,7 +94,23 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 
 ## C. Vòng chung kết - 30/12/2018
 ### Cá nhân
-đang cập nhật
+* <đang cập nhật> - Nhất bảng A
+* <đang cập nhật> - Nhì bảng A
+* <khuyết> - Nhất bảng B
+* <khuyết> - Nhì bảng B
+* <khuyết> - Nhất bảng C
+* <khuyết> - Nhì bảng C
+* <khuyết> - Nhất bảng D
+* <khuyết> - Nhì bảng D
+* <khuyết> - Nhất bảng E
+* <khuyết> - Nhì bảng E
+* <khuyết> - Nhất bảng F
+* <khuyết> - Nhì bảng F
+* <khuyết> - Nhất bảng G
+* <khuyết> - Nhì bảng G
+* <khuyết> - Nhất bảng H
+* <khuyết> - Nhì bảng H
+
 ### Tổ đội
 * TOCDO - Dương Thành Đạt - B1805747 - <ten_robot_leader> - <ten_tai_khoan_github>
 * Dogsled - Nguyễn Quốc Trung - B1704784 - <ten_robot_leader> - <ten_tai_khoan_github>
