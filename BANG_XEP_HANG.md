@@ -13,8 +13,8 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 
 ## B. Bảng xếp hạng vòng loại (Tên thí sinh - Mã số - Tên robot - Tài khoản GitHub)
 ### I. Bảng A - 04/11/2018 (chuẩn bị thi đấu)
-* Đinh Thị Thùy Nhung - B1706736 - Thuynhungsocolacold - Thuynhungsocolacold
-* Châu Nhựt Minh - B1706724 - phungdethuong - phungdethuong
+1. Đinh Thị Thùy Nhung - B1706736 - Thuynhungsocolacold - Thuynhungsocolacold
+2. Châu Nhựt Minh - B1706724 - phungdethuong - phungdethuong
 * Lê Tấn Lộc - B1605339 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
 * Phạm Lư Bích Tuyên - B1706210 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
 * Bùi Lê Công Toại - B1809197 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
