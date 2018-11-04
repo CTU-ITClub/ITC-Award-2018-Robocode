@@ -22,9 +22,10 @@ public class Phungdethuong extends Robot
 	public void run() {
 		
 	while (true) {
-			turnRight(20);
-			ahead(100);
-			back(100);
+			turnGunRight(360);
+			scan();
+			//ahead(50);
+			//back(50);
 		}
 	}
 
@@ -33,11 +34,11 @@ public class Phungdethuong extends Robot
 	 */
 	public void onScannedRobot(ScannedRobotEvent e) {
 
-		if (e.getBearing() >= 0) {
-			ahead(50);
-		} else {
-			back(50);
-		}
+	//	if (e.getBearing() >= 0) {
+		//	ahead(50);
+	//	} else {
+		//	back(50);
+		//}
 
 		turnRight(e.getBearing());
 		ahead(e.getDistance() + 5);
@@ -48,17 +49,17 @@ public class Phungdethuong extends Robot
 	 * onHitRobot:  Turn to face robot, fire hard, and ram him again!
 	 */
 	public void onHitRobot(HitRobotEvent e) {
-		if (e.getBearing() >= 0) {
-			ahead(10);
-		} else {
-			back(10);
-		}
+	//	if (e.getBearing() >= 0) {
+		//	ahead(10);
+		//} else {
+		//	back(10);
+		//}
 		turnRight(e.getBearing());
 
 		// Determine a shot that won't kill the robot...
 		// We want to ram him instead for bonus points
 		if (e.getEnergy() > 16) {
-			fire(3);
+			fire(10);
 		} else if (e.getEnergy() > 10) {
 			fire(2);
 		} else if (e.getEnergy() > 4) {
