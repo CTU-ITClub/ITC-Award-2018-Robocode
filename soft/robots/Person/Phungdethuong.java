@@ -46,6 +46,15 @@ public class Phungdethuong extends Robot
 	public void onScannedRobot(ScannedRobotEvent e) {
 		// Replace the next line with any behavior you would like
 		//fire(5);
+		if (e.getBearing() >= 0) {
+			turnRight(90);
+		} else {
+			turnLeft(90);
+		}
+
+		turnRight(e.getBearing());
+		ahead(e.getDistance() + 5);
+		scan();
 		if (e.getDistance() < 50 && getEnergy() > 50) {
 			fire(3);
 		}
