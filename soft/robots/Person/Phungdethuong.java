@@ -24,6 +24,8 @@ public class Phungdethuong extends Robot
 	while (true) {
 			turnGunRight(360);
 			scan();
+		//	turnGunRight(e.getBearing());
+			
 			//ahead(50);
 			//back(50);
 		}
@@ -41,7 +43,7 @@ public class Phungdethuong extends Robot
 		//}
 
 		turnRight(e.getBearing());
-		ahead(e.getDistance() + 5);
+		ahead(e.getDistance() + 50);
 		scan(); // Might want to move ahead again!
 	}
 
