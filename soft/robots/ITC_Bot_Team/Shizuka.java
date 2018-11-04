@@ -1,16 +1,16 @@
-package Person; 
+package ITC_Bot_Team;
 import robocode.*;
 //import java.awt.Color;
 
 // API help : http://robocode.sourceforge.net/docs/robocode/robocode/Robot.html
 
 /**
- * BOSS - a robot by (your name here)
+ * Shizuka - a robot by (your name here)
  */
-public class BOSS extends Robot
+public class Shizuka extends Robot
 {
 	/**
-	 * run: BOSS's default behavior
+	 * run: Shizuka's default behavior
 	 */
 	public void run() {
 		// Initialization of the robot should be put here
@@ -35,7 +35,7 @@ public class BOSS extends Robot
 	 */
 	public void onScannedRobot(ScannedRobotEvent e) {
 		// Replace the next line with any behavior you would like
-		fire(1);
+		//fire(1);
 	}
 
 	/**

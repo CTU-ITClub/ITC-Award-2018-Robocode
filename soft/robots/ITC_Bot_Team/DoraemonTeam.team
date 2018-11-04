@@ -1,0 +1,7 @@
+#Robocode robot team
+#Sun Nov 04 18:47:06 ICT 2018
+team.members=ITC_Bot_Team.Doraemon*,ITC_Bot_Team.Jaian*,ITC_Bot_Team.Nobita*,ITC_Bot_Team.Shizuka*,ITC_Bot_Team.Suneo*
+team.author.name=
+robocode.version=1.9.3.3
+team.description=Bot
+team.version=1.0
