@@ -1,6 +1,6 @@
 package Person;
-import robocode.*;
-import java.awt.Color;
+//import robocode.*;
+//import java.awt.Color.*;
 import robocode.HitRobotEvent;
 import robocode.Robot;
 import robocode.ScannedRobotEvent;
@@ -15,14 +15,20 @@ import java.awt.*;
  * Phungdethuong - a robot by (your name here)
  */
 public class Phungdethuong extends Robot
-{
+		{
 	/**
 	 * run: Phungdethuong's default behavior
 	 */
 	public void run() {
+	setBodyColor(Color.pink);
+		setGunColor(Color.green);
+		setRadarColor(Color.pink);
+		setBulletColor(Color.cyan);
+		setScanColor(Color.black);
 		
 	while (true) {
 			turnGunRight(360);
+			ahead(50);
 			scan();
 		//	turnGunRight(e.getBearing());
 			
