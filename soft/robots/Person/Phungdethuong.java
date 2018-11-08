@@ -1,6 +1,11 @@
 package Person;
-import robocode.*;
-import java.awt.Color;
+//import robocode.*;
+//import java.awt.Color.*;
+import robocode.HitRobotEvent;
+import robocode.Robot;
+import robocode.ScannedRobotEvent;
+import java.awt.*;
+
 
 // API help : http://robocode.sourceforge.net/docs/robocode/robocode/Robot.html
 
@@ -10,68 +15,68 @@ import java.awt.Color;
  * Phungdethuong - a robot by (your name here)
  */
 public class Phungdethuong extends Robot
-{
+		{
 	/**
 	 * run: Phungdethuong's default behavior
 	 */
 	public void run() {
-		// Initialization of the robot should be put here
-
-		// After trying out your robot, try uncommenting the import at the top,
-		// and the next line:
-
-		// setColors(Color.red,Color.blue,Color.green); // body,gun,radar
-
-		// Robot main loop
-		//setBodyColor(Color.blue);
-		//setgunColor(Color.white);
-		//setradarColor(Color.prink);
-		while(true) {
-			// Replace the next 4 lines with any behavior you would like
-			ahead(15);
+	setBodyColor(Color.pink);
+		setGunColor(Color.green);
+		setRadarColor(Color.pink);
+		setBulletColor(Color.cyan);
+		setScanColor(Color.black);
+		
+	while (true) {
 			turnGunRight(360);
-			back(15);
-			turnGunRight(360);
+			ahead(50);
+			scan();
+		//	turnGunRight(e.getBearing());
 			
+			//ahead(50);
+			//back(50);
 		}
 	}
 
-
 	/**
-	 * onScannedRobot: What to do when you see another robot
+	 * onScannedRobot:  We have a target.  Go get it.
 	 */
 	public void onScannedRobot(ScannedRobotEvent e) {
-		// Replace the next line with any behavior you would like
-		//fire(5);
-		if (e.getDistance() < 50 && getEnergy() > 50) {
-			fire(3);
-		}
-		else {
+
+	//	if (e.getBearing() >= 0) {
+		//	ahead(50);
+	//	} else {
+		//	back(50);
+		//}
+
+		turnRight(e.getBearing());
+		ahead(e.getDistance() + 50);
+		scan(); // Might want to move ahead again!
+	}
+
+	/**
+	 * onHitRobot:  Turn to face robot, fire hard, and ram him again!
+	 */
+	public void onHitRobot(HitRobotEvent e) {
+	//	if (e.getBearing() >= 0) {
+		//	ahead(10);
+		//} else {
+		//	back(10);
+		//}
+		turnRight(e.getBearing());
+
+		// Determine a shot that won't kill the robot...
+		// We want to ram him instead for bonus points
+		if (e.getEnergy() > 16) {
+			fire(10);
+		} else if (e.getEnergy() > 10) {
+			fire(2);
+		} else if (e.getEnergy() > 4) {
 			fire(1);
+		} else if (e.getEnergy() > 2) {
+			fire(.5);
+		} else if (e.getEnergy() > .4) {
+			fire(.1);
 		}
-	}
-
-	/**
-	 * onHitByBullet: What to do when you're hit by a bullet
-	 */
-	public void onHitByBullet(HitByBulletEvent e) {
-		// Replace the next line with any behavior you would like
-		//back(10);
-		turnRight(45);
-
-		ahead(20);
-		back(10);
-		//dist *=-10;
-		scan();
-	}
-
-	/**
-	 * onHitWall: khi dam vao tuong thi lam gi
-	 */
-	public void onHitWall(HitWallEvent e) {
-		// Replace the next line with any behavior you would like
-		back(10);
-		turnRight(90);
-		ahead(10);
+		ahead(40); // Ram him again!
 	}
 }
