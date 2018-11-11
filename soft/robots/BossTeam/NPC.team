@@ -1,0 +1,7 @@
+#Robocode robot team
+#Sun Nov 11 14:58:00 ICT 2018
+team.members=BossTeam.DroidNPC*,BossTeam.LeaderNPC*,BossTeam.WallNPC*,BossTeam.DroidNPC*
+team.author.name=
+robocode.version=1.9.3.3
+team.description=Team NPC custom
+team.version=
