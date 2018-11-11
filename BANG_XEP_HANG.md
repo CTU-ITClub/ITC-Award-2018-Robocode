@@ -23,7 +23,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * <khuyết>
 
 ### II. Bảng B - 11/11/2018
-1. Phạm Chí Trung - B1809424 - TrungXi - chitrung1102200 (???đ)
+1. Phạm Chí Trung - B1809424 - TrungXi - chitrung1102200 (6.735đ)
 * Huỳnh Tiểu Phụng - B1812367 - <ten_robot> - <ten_tai_khoan_github> (bỏ cuộc)
 * <khuyết>
 * <khuyết>
