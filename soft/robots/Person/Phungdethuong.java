@@ -25,7 +25,7 @@ import java.awt.*;
  */
 public class Phungdethuong extends Robot {
 
-	boolean peek; // Don't turn if there's a robot there
+	boolean mlp; // Don't turn if there's a robot there
 	double moveAmount; // How much to move
 
 	/**
@@ -41,8 +41,8 @@ public class Phungdethuong extends Robot {
 
 		// Initialize moveAmount to the maximum possible for this battlefield.
 		moveAmount = Math.max(getBattleFieldWidth(), getBattleFieldHeight());
-		// Initialize peek to false
-		peek = false;
+		// Initialize mlp to false
+		mlp = false;
 		// turnLeft to face a wall.
 		// getHeading() % 90 means the remainder of
 		// getHeading() divided by 90.
@@ -50,7 +50,7 @@ public class Phungdethuong extends Robot {
 		turnRight(getHeading() % 90);
 		back(moveAmount);
 		// Turn the gun to turn right 90 degrees.
-		peek = true;
+		mlp = true;
 		///turnGunRight(90);
 		///turnRight(90);
 		turnGunLeft(90);
@@ -58,14 +58,14 @@ public class Phungdethuong extends Robot {
 
 		while (true) {
 			// Look before we turn when ahead() completes.
-			peek = true;
-			///peek = false;
+			mlp = true;
+			///mlp = false;
 			// Move up the wall
 			///ahead(moveAmount);
 			back(moveAmount);
 			// Don't look now
-			peek = false;
-			///peek = true;
+			mlp = false;
+			///mlp = true;
 			// Turn to the next wall
 			///turnRight(90);
 			turnLeft(90);
@@ -102,7 +102,7 @@ public class Phungdethuong extends Robot {
 		// Note that scan is called automatically when the robot is moving.
 		// By calling it manually here, we make sure we generate another scan event if there's a robot on the next
 		// wall, so that we do not start moving up it until it's gone.
-		if (peek) {
+		if (mlp) {
 			scan();
 		}
 	}
