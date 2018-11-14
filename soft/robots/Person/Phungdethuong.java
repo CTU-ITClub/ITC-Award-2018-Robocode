@@ -48,7 +48,6 @@ public class Phungdethuong extends Robot {
 		// getHeading() divided by 90.
 		///turnLeft(getHeading() % 90);
 		turnRight(getHeading() % 90);
-		///ahead(moveAmount);
 		back(moveAmount);
 		// Turn the gun to turn right 90 degrees.
 		peek = true;
