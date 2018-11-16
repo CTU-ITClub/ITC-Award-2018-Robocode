@@ -25,13 +25,36 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Cá nhân: cá nhân có robo đạt điểm cao nhất (dựa trên bảng xếp hạng trận)
 * Tổ đội: tất cả tổ đội đăng ký được vào thẳng vòng chung kết (30/12/2018)
 * Hình thức: thí sinh gửi code về ban tổ chức bằng hình thức đóng góp vào GitHub do ban tổ chức cung cấp. Code phải được gửi về trước khi thi 6 giờ (dựa trên thời gian commit). Vào 19h mỗi tối chủ nhật, ban tổ chức sẽ livestream từng bảng thông qua nhóm Facebook của CLB Tin học.
-* Lưu ý: các cá nhân thua vòng bảng có thể đăng ký thi lại bảng khác. 
+* Lưu ý: các cá nhân thua vòng bảng có thể đăng ký thi lại bảng khác.
 
 ### III. Vòng chung kết
 * Các bạn dự thi theo hình thức đã đăng ký và đã thi đấu vòng loại.
 * Thi đấu trực tiếp tất cả lần lượt theo từng hình thức cá nhân và tổ đội
-* Kết quả chung cuộc dựa trên bảng xếp hạng trận đấu.
+* Cách tính điểm (xem phần tính điểm tại phần B.IV - Cách tính điểm chung kết)
 * Hình thức: từng cá nhân và tổ đội hạng nhất mỗi bảng sẽ tập trung về hội trường khoa CNTT&TT để tham gia vòng chung kết. Ban tổ chức livestream trực tiếp vòng chung kết thông qua nhóm Facebook của CLB Tin học.
+
+### IV. Cách tính điểm chung kết
+#### 1. Công thức chung
+* Thể thức cá nhân: Tổng điểm = điểm do xếp hạng vòng loại + trung bình tổng điểm theo lượt trận chung kết + điểm do xếp hạng chung kết
+* Thể thức đồng đội: Tổng điểm = số điểm của đội trong 10 lượt trận chung kết (dựa trên bảng xếp hạng)
+#### 2. Đối với thể thức cá nhân
+##### a/ Điểm do xếp hạng vòng loại
+* Nhất bảng: +20đ
+* Nhì bảng: +10đ
+* Hạng 3 xuất sắc nhất vòng bảng: +10đ
+##### b/ Điểm do xếp hạng chung kết
+* Nhất bảng: +30đ
+* Nhì bảng: +20đ
+* Hạng 3: +10đ
+* Mỗi hạng kế tiếp: +5đ
+##### c/ Điểm theo từng lượt trận chung kết
+* Là robot cuối cùng trên sân đấu: +15đ/lượt
+##### d/ Ví dụ về cách tính điểm
+* Robot A hạng 2 vòng loại bảng C, hạng 3 chung kết, có 3 lần sống sót trong 10 lượt
+* Ta có điểm chung cuộc của Robot A: TC_A = 10 + 10 + 15*3 = 65đ
+* Robot B hạng 3 vòng loại bảng D, hạng 1 chung kết, có 3 lần sống sót trong 10 lượt
+* Ta có điểm chung cuộc của Robot B: TC_B = 10 + 30 + 15*3 = 85đ
+* Như vậy, robot B hơn 20đ so với robot A.
 
 ## C. Thời gian - Địa điểm
 ### I. Lễ Phát động - Hướng dẫn về thể lệ và đăng ký
@@ -42,7 +65,11 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Lê Nguyên Thức (Cựu Phó Chủ nhiệm thường trực CLB Tin học)
 
 ### II. Vòng loại
-#### 1. Thời gian: liên tục trong 8 tuần (4/11 - 23/12/2018) để chia bảng 8 bảng A,B,C,D,E,F,G,H
+#### 1. Thời gian:
+* Bảng A: 4/11/2018
+* Bảng B: 11/11/2018
+* Bảng C: 16/12/2018
+* Bảng D: 23/12/2018
 #### 2. Địa điểm: thi trực tuyến (xem livestream tại group CLB Tin học)
 
 ### III. Vòng chung kết
@@ -61,8 +88,8 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Tiền mặt
 
 ### III. Giải ITC Robo
-* 5 giấy chứng nhận cấp bởi CLB Tin học cho 5 cá nhân xuất sắc nhất (trừ cá nhân đã đạt giải ITC Award - Person)
-* 5 bộ giấy chứng nhận cấp bởi CLB Tin học cho 5 tập thể xuất sắc nhất (trừ tập thể đã đạt giải ITC Award - Team)
+* Giấy chứng nhận cấp bởi CLB Tin học cho các cá nhân xuất sắc lọt vào chung kết (trừ cá nhân đã đạt giải ITC Award - Person)
+* Giấy chứng nhận cấp bởi CLB Tin học cho thành viên tập thể xuất sắc (trừ tập thể đã đạt giải ITC Award - Team)
 
 ## E. Ban tổ chức
 * Trưởng ban: Trần Thị Vàng Y - Phó Chủ nhiệm thường trực CLB Tin học

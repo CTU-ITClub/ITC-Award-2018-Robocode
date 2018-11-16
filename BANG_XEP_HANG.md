@@ -52,64 +52,16 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * <khuyết>
 * <khuyết>
 
-### V. Bảng E - 02/12/2018
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-
-### VI. Bảng F - 09/12/2018
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-
-### VII. Bảng G - 16/12/2018
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-
-### VIII. Bảng H - 23/12/2018
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-
 ## C. Vòng chung kết - 30/12/2018
 ### Cá nhân
 * Thuynhungsocolacold - Nhất bảng A
 * phungdethuong - Nhì bảng A
 * TrungXi - Nhất bảng B
-* <khuyết> - Nhì bảng B
 * <khuyết> - Nhất bảng C
 * <khuyết> - Nhì bảng C
 * <khuyết> - Nhất bảng D
 * <khuyết> - Nhì bảng D
-* <khuyết> - Nhất bảng E
-* <khuyết> - Nhì bảng E
-* <khuyết> - Nhất bảng F
-* <khuyết> - Nhì bảng F
-* <khuyết> - Nhất bảng G
-* <khuyết> - Nhì bảng G
-* <khuyết> - Nhất bảng H
-* <khuyết> - Nhì bảng H
+* <khuyết> - Hạng 3 xuất sắc nhất vòng loại
 
 ### Tổ đội
 * TOCDO - Dương Thành Đạt - B1805747 - <ten_robot_leader> - <ten_tai_khoan_github>
