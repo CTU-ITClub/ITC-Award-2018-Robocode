@@ -19,49 +19,25 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Phạm Lư Bích Tuyên - B1706210 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
 * Bùi Lê Công Toại - B1809197 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
 * Huỳnh Thu Uyên - B1812320 - <ten_robot> - <ten_tai_khoan_github> (bị loại)
-* <khuyết>
-* <khuyết>
 
 ### II. Bảng B - 11/11/2018
 1. Phạm Chí Trung - B1809424 - TrungXi - chitrung1102200 (6.735đ)
 * Huỳnh Tiểu Phụng - B1812367 - <ten_robot> - <ten_tai_khoan_github> (bỏ cuộc)
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
+
+### III. Bảng C - 16/12/2018
 * <khuyết>
 
-### III. Bảng C - 18/11/2018
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-
-### IV. Bảng D - 25/11/2018
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
-* <khuyết>
+### IV. Bảng D - 23/12/2018
+1. Nguyễn Hoàng Linh - B1706603 - Thanh_Linh - hoanglinh807607 (10.185đ)
+2. Huỳnh Hữu Lộc - B1706719 - Stalker - Namesiss (3.956đ)
 
 ## C. Vòng chung kết - 30/12/2018
 ### Cá nhân
 * Thuynhungsocolacold - Nhất bảng A
 * phungdethuong - Nhì bảng A
 * TrungXi - Nhất bảng B
-* <khuyết> - Nhất bảng C
-* <khuyết> - Nhì bảng C
-* <khuyết> - Nhất bảng D
-* <khuyết> - Nhì bảng D
-* <khuyết> - Hạng 3 xuất sắc nhất vòng loại
+* Thanh_Linh - Nhất bảng D
+* Stalker - Nhì bảng D
 
 ### Tổ đội
 * TOCDO - Dương Thành Đạt - B1805747 - <ten_robot_leader> - <ten_tai_khoan_github>
