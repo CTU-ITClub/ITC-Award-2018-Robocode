@@ -23,7 +23,7 @@ import java.awt.*;
  * @author Mathew A. Nelson (original)
  * @author Flemming N. Larsen (contributor)
  */
-public class Thành_Linh extends Robot {
+public class Thanh_Linh extends Robot {
 
 	boolean peek; // Don't turn if there's a robot there
 	double moveAmount; // How much to move
