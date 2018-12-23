@@ -1,0 +1,66 @@
+package Person;
+//import robocode.*;
+import java.awt.*;
+import robocode.HitRobotEvent;
+import robocode.Robot;
+import robocode.ScannedRobotEvent;
+import static robocode.util.Utils.normalRelativeAngleDegrees;
+// API help : http://robocode.sourceforge.net/docs/robocode/robocode/Robot.html
+
+/**
+ * Hurricanger - a robot by (your name here)
+ */
+public class Hurricanger extends Robot
+{
+	boolean mlp ;
+	double move;	
+/**d
+	 * run: Hurricanger's default behavior
+	 */
+	public void run() {
+		// Initialization of the robot should be put here
+		// After trying out your robot, try uncommenting the import at the top,
+		// and the next line:
+		setColors(Color.black,Color.white,Color.green);
+		setBulletColor(Color.white); // body,gun,radar
+		// Robot main loop
+		while(true) {
+			// Replace the next 4 lines with any behavior you would like
+			ahead(20);
+			turnGunRight(360);
+			turnRight(40);
+			ahead(20);
+			turnGunLeft(360);
+			turnLeft(40);
+			scan();
+		}
+	}
+
+	/**
+	 * onScannedRobot: What to do when you see another robot
+	 */
+	public void onScannedRobot(ScannedRobotEvent e) {
+		// Replace the next line with any behavior you would like
+		if (event.Distance < 200)
+		fire(2);
+		else if(event.Distance < 50)
+		fire(Rules.MAX_BULLET_POWER);
+	}
+
+	/**
+	 * onHitByBullet: What to do when you're hit by a bullet
+	 */
+	public void onHitByBullet(HitByBulletEvent e) {
+		// Replace the next line with any behavior you would like
+		TurnRight(180);
+	}
+	
+	/**
+	 * onHitWall: What to do when you hit a wall
+	 */
+	public void onHitWall(HitWallEvent e) {
+		// Replace the next line with any behavior you would like
+		back(20);
+		turnLeft(180);
+	}	
+}
