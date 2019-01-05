@@ -31,7 +31,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 1. Nguyễn Hoàng Linh - B1706603 - Thanh_Linh - hoanglinh807607 (10.185đ)
 2. Huỳnh Hữu Lộc - B1706719 - Stalker - Namesiss (3.956đ)
 
-## C. Vòng chung kết - 30/12/2018
+## C. Vòng chung kết - 06/01/2019
 ### Cá nhân
 * Thuynhungsocolacold - Nhất bảng A
 * phungdethuong - Nhì bảng A
@@ -40,7 +40,6 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 * Stalker - Nhì bảng D
 
 ### Tổ đội
-* TOCDO - Dương Thành Đạt - B1805747 - <ten_robot_leader> - <ten_tai_khoan_github>
 * Dog-Sled - Nguyễn Quốc Trung - B1704784 - Leader - kalahote
 
 ## D. Vô địch
