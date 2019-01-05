@@ -73,7 +73,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 #### 2. Địa điểm: thi trực tuyến (xem livestream tại group CLB Tin học)
 
 ### III. Vòng chung kết
-#### 1. Thời gian: 18h30 ngày 30/12/2018
+#### 1. Thời gian: 8h00 ngày 06/01/2019
 #### 2. Địa điểm: hội trường khoa CNTT&TT, trường Đại học Cần Thơ
 
 ## D. Giải thưởng
