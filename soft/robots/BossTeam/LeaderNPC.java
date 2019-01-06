@@ -33,11 +33,11 @@ public class LeaderNPC extends TeamRobot {
 		// Prepare RobotColors object
 		RobotColors c = new RobotColors();
 
-		c.bodyColor = Color.red;
-		c.gunColor = Color.red;
-		c.radarColor = Color.red;
-		c.scanColor = Color.yellow;
-		c.bulletColor = Color.yellow;
+		c.bodyColor = Color.black;
+		c.gunColor = Color.black;
+		c.radarColor = Color.black;
+		c.scanColor = Color.white;
+		c.bulletColor = Color.white;
 
 		// Set the color of this robot containing the RobotColors
 		setBodyColor(c.bodyColor);
