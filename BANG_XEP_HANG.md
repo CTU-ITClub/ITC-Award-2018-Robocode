@@ -45,6 +45,6 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 
 ## D. Vô địch
 ### Cá nhân
-đang cập nhật
+* Phạm Chí Trung - B1809424 - TrungXi - chitrung1102200 - 0369.863.655
 ### Tổ đội
-* Dog_Sled_Team - Nguyễn Quốc Trung - B1704784 - Old_Dog - kalahote
+* Dog_Sled_Team - Nguyễn Quốc Trung - B1704784 - Old_Dog - kalahote - 0944.040.975
