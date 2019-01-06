@@ -71,9 +71,19 @@ public class LeaderNPC extends TeamRobot {
 		double enemyX = getX() + e.getDistance() * Math.sin(Math.toRadians(enemyBearing));
 		double enemyY = getY() + e.getDistance() * Math.cos(Math.toRadians(enemyBearing));
 
+		// Calculate x and y to target
+		double dx = enemyX - this.getX();
+		double dy = enemyY - this.getY();
+		// Calculate angle to target
+		double theta = Math.toDegrees(Math.atan2(dx, dy));
+
 		try {
 			// Send enemy position to teammates
 			broadcastMessage(new Point(enemyX, enemyY));
+			// Turn gun to target
+			turnGunRight(e.getBearing());
+			// Fire hard!
+			fire(3);
 		} catch (IOException ex) {
 			out.println("Unable to send order: ");
 			ex.printStackTrace(out);

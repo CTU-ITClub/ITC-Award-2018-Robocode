@@ -41,7 +41,7 @@ ITC Award 2018: Robocode - Cuộc thi lập trình do CLB Tin học, khoa CNTT&T
 
 ### Tổ đội
 * TOCDO - Dương Thành Đạt - B1805747 - <ten_robot_leader> - <ten_tai_khoan_github>
-* Dog-Sled - Nguyễn Quốc Trung - B1704784 - Leader - kalahote
+* Dog_Sled_Team - Nguyễn Quốc Trung - B1704784 - Old_Dog - kalahote
 
 ## D. Vô địch
 ### Cá nhân

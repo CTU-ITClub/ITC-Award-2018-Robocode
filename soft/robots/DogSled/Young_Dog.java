@@ -5,7 +5,7 @@
  * which accompanies this distribution, and is available at
  * http://robocode.sourceforge.net/license/epl-v10.html
  */
-package Dog Sled;
+package DogSled;
 
 
 import robocode.Droid;
@@ -22,13 +22,13 @@ import static robocode.util.Utils.normalRelativeAngleDegrees;
  * @author Mathew A. Nelson (original)
  * @author Flemming N. Larsen (contributor)
  */
-public class Droid extends TeamRobot implements Droid {
+public class Young_Dog extends TeamRobot implements Droid {
 
 	/**
 	 * run:  Droid's default behavior
 	 */
 	public void run() {
-		out.println("Droid ready.");
+		out.println("Young_Dog ready.");
 	}
 
 	/**

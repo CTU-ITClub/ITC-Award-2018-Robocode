@@ -5,14 +5,13 @@
  * which accompanies this distribution, and is available at
  * http://robocode.sourceforge.net/license/epl-v10.html
  */
-package Dog Sled;
+package DogSled;
 
 
-import robocode.HitByWallEvent;
+import robocode.HitWallEvent;
 import robocode.HitByBulletEvent;
 import robocode.ScannedRobotEvent;
 import robocode.TeamRobot;
-import robocode.OnHitWallEvent;
 
 import java.awt.*;
 import java.io.IOException;
@@ -26,7 +25,7 @@ import java.io.IOException;
  * @author Mathew A. Nelson (original)
  * @author Flemming N. Larsen (contributor)
  */
-public class Leader extends TeamRobot {
+public class Old_Dog extends TeamRobot {
 
 	/**
 	 * run:  Leader's default behavior
@@ -88,8 +87,8 @@ public class Leader extends TeamRobot {
 	public void onHitByBullet(HitByBulletEvent e) {
 		turnLeft(90 - e.getBearing());
 	}
-	public void onHitWall(HitByWallEvent e) {
+	public void onHitWall(HitWallEvent e) {
 		back(150);
-		turnleft(90 - e.getBearing);
+		turnLeft(90 - e.getBearing());
 	}
 }

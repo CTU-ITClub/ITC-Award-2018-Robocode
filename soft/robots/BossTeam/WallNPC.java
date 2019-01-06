@@ -61,6 +61,12 @@ public class WallNPC extends TeamRobot {
 			peek = false;
 			// Turn to the next wall
 			turnRight(90);
+
+			// Prints out all teammates
+      String[] teammates = getTeammates();
+      if (teammates == null) {
+      	turnGunRight(50);
+      }
 		}
 	}
 

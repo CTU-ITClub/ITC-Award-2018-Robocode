@@ -28,7 +28,7 @@ public class DroidNPC extends TeamRobot implements Droid {
 	 * run:  Droid's default behavior
 	 */
 	public void run() {
-		out.println("MyFirstDroid ready.");
+		out.println("DroidNPC ready.");
 	}
 
 	/**
